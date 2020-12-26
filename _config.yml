@@ -2,10 +2,10 @@
 title: Brafie
 subtitle: Brafie Portofolio
 email: ariefbuddies@qmail.id
-description: A braveries.
-baseurl: "/" # the subpath of your site, e.g. /blog
+description: A braveries
+baseurl: "/"
 url: https://forty-jekyll-theme-two.vercel.app # the base hostname & protocol for your site
-author:brafie
+author:
 street_address: 1234 Somewhere Road
 city: Nashville
 state: TN
