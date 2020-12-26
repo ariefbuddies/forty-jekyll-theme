@@ -1,6 +1,6 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
+title: Brafie
+subtitle: Brafie Portofolio
 email: youremailaddress@gmail.com
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
 baseurl: "/" # the subpath of your site, e.g. /blog
@@ -11,11 +11,11 @@ city: Nashville
 state: TN
 zip_code: 55555
 country: United States of America
-phone: (716) 555-5555
+phone: 1(707) 999-7976
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 6
+tiles-count: 8
 
 # social settings
 500px_url:
