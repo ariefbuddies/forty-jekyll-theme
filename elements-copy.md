@@ -2,7 +2,6 @@
 layout: page
 title: Elements-(copy)
 nav-menu: true
-published: false
 
 ---
 <!-- Main -->
